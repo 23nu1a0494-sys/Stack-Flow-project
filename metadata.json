@@ -1,0 +1,6 @@
+{
+  "name": "StockFlow – SaaS Inventory Management",
+  "description": "Simplifying Inventory. Empowering Businesses. Professional multi-tenant SaaS inventory management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
